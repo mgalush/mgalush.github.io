@@ -7,7 +7,8 @@
     <h1>This is the Main Heading</h1>
     <p>This text might be an introduction to the rest of
     the page. And if the page is a long one it might
-    be split up into several sub-headings.<p> <h2>This is a Sub-Heading</h2>
+    be split up into several sub-headings.<p>
+    <h2>This is a Sub-Heading</h2>
     <p>Many long articles have sub-headings so to help
     you follow the structure of what is being written. There may even be sub-sub-headings (or lower-level headings).</p>
     <h2>Another Sub-Heading</h2>
@@ -45,3 +46,19 @@
 ##### Meta data
 - Contains information about the webpage for the browser
 - Typically contains a description, keywords, author, etc
+
+# ABC's of JavaScript
+
+  A - What is a script and how do I create one?
+
+  - A script is a series of instructions that a computer can follow to achieve a goal
+  - When you write your script, you first state your goal and then list the tasks in order to be completed
+
+  B - How do computers fit within the world around them?
+
+  - Computers create models of the world using data
+  - Those models represent physical things, such as objects, properties, and events
+
+  C - How do I write a script for a webpage?
+
+  - HTML, CSS & JavaScript form the basis of all webpages
