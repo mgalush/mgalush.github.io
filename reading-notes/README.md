@@ -2,7 +2,8 @@
 Reading Notes for Code Fellows
 
 ## Code 201 - *Foundations of Software Development*
-  - [Notes for 201](./class-01.md)
+  - [Day 1](./class-01.md)
+  - [Day 2](./class-02.md)
 
 ## Code 301 - *Intermediate Software Development*
   - Notes for 301
