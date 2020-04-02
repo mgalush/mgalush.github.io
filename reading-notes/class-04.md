@@ -56,3 +56,24 @@ The location where you declare your variable can affect where it can be used.
 **Global Scope**: If you create a variable outside of a function, it has *global* scope and can be used anywhere in the file
 
 *Note: global variables use more memory*
+
+
+# Pair Programming
+
+Pair programming involves two people: the **driver** and the **navigator**.   The driver types while the navigator users their words to guide the driver.
+
+Pair programming touches on the four fundamental skills of learning a language:
+
+1. Listening: listening and interpreting the vocabulary
+2. Speaking: using the correct words to communicate an idea
+3. Reading: understanding what written language intends to convey
+4. Writing: producing from scratch 
+
+## Top six reasons to pair program
+
+1. Greater efficiency 
+2. Engaged collaboration
+3. Learning from fellow students
+4. Social skills
+5. Job interview readiness
+6. Work environment readiness
