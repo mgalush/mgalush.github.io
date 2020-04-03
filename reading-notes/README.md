@@ -6,6 +6,7 @@ Reading Notes for Code Fellows
   - [Day 2](./class-02.md)
   - [Day 3](./class-03.md)
   - [Day 4](./class-04.md)
+  - [Day 5](./class-05.md)
 
 ## Code 301 - *Intermediate Software Development*
   - Notes for 301
