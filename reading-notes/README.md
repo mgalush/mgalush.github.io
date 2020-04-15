@@ -16,6 +16,7 @@ Reading Notes for Code Fellows
   - [Day 12](./class-12.md)
   - [Day 13](./class-13.md)
   - [Day 14](./class-14.md)
+  - [Day 15](./class-15.md)
 
 ## Code 301 - *Intermediate Software Development*
   - Notes for 301
