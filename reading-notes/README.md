@@ -21,6 +21,7 @@ Reading Notes for Code Fellows
 ## Code 301 - *Intermediate Software Development*
   - [Day 1](301/class-01.md)
   - [Day 2](301/class-02.md)
+  - [Day 3](301/class-03.md)
 
 ## Code 401 - *Advanced Software Development*
   - Notes for 401
