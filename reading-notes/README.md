@@ -22,6 +22,7 @@ Reading Notes for Code Fellows
   - [Day 1](301/class-01.md)
   - [Day 2](301/class-02.md)
   - [Day 3](301/class-03.md)
+  - [Day 8](301/class-08.md)
 
 ## Code 401 - *Advanced Software Development*
   - Notes for 401
