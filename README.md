@@ -28,3 +28,4 @@
 
 ## Code 401 - *Advanced Software Development*
   - [Prep](401/class-prep.md)
+  - [Day 1](401/class-01.md)
